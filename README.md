@@ -1,99 +1,137 @@
-# <p align="center"><img src="https://media.giphy.com/media/hvRJCLzz8KBgY/giphy.gif" width="28"> Hey there, I'm Udith!</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=I'm%20Udith%20P&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<p align="center">
-  <a href="https://github.com/Udithp">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Data+Analytics+Specialist;Machine+Learning+Explorer;Python+Developer;Insight+Architect" alt="Typing SVG" />
-  </a>
-</p>
+  <h3>🤟 Data Scientist & Analytics Specialist</h3>
+
+  <p align="center">
+    <a href="https://github.com/Udithp">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Data+Analytics+Specialist;Machine+Learning+Explorer;Python+Developer;Insight+Architect" alt="Typing SVG" />
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/udithp/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=Udithp&color=00D2FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
+  </p>
+</div>
 
 ---
 
 ### 🚀 About Me
 
-I am a results-driven **Data Scientist** and **Data Analyst** passionate about uncovering hidden patterns in complex datasets. I specialize in turning raw data into actionable insights and building intelligent systems that drive meaningful impact. 
+<div align="center">
+  I am a results-driven <b>Data Scientist</b> and <b>Data Analyst</b> passionate about uncovering hidden patterns in complex datasets. I specialize in turning raw data into actionable insights and building intelligent systems that drive meaningful impact. 
+</div>
 
-- 📊 I specialize in **Exploratory Data Analysis (EDA)** and **Statistical Modeling**.
-- 🔭 Lead Developer of **SignBridge**, an AI system for the Deaf & Mute community.
-- 🌱 Learning **Big Data Architecture** and **Advanced Business Intelligence**.
-- 👯 Open for collaborations on **Data Science & Cybersecurity projects**.
-- 💬 Ask me about **ML, SQL, Data Viz, or Automation**.
-- 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/udithp/)**
+<br>
+
+- 📊 **Specialization**: Exploratory Data Analysis (EDA) & Statistical Modeling.
+- 🔭 **Current Focus**: Leading **SignBridge**, an AI system for the Deaf & Mute community.
+- 🌱 **Learning**: Big Data Architecture and Advanced Business Intelligence.
+- 👯 **Collaboration**: Open for Open Source Data Science & Cybersecurity projects.
 
 ---
 
-### 🛠️ Data Science & Analytics Stack
+### 🛠️ Tech Stack & Expertise
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" /><br />Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="SQL" /><br />SQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" /><br />TensorFlow
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" alt="Scikit-Learn" /><br />Scikit-Learn
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" /><br />React
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flask" width="40" height="40" alt="Flask" /><br />Flask
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" /><br />Tailwind
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /><br />Git
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tableau" width="40" height="40" alt="Tableau" /><br />Tableau
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" /><br />AWS
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ### 🌟 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🤟 [SignBridge](https://github.com/Udithp/sign-detect)** | Real-time ASL to multilingual text/audio interpreter. | Python, TensorFlow, React, MediaPipe |
-| **📄 [AI Resume Builder](https://github.com/Udithp/ai-resume-builder)** | Intelligent agent for generating optimized resumes using NLP. | Python, OpenAI/NLP, Flask |
-| **🛡️ [AI NIDS](https://github.com/Udithp/ai-nids)** | Network Intrusion Detection System using Machine Learning. | Scikit-Learn, Pandas, Python |
-| **💼 [HireSignal](https://github.com/Udithp/hiresignal)** | AI-driven recruitment platform for matching talent. | React, Node.js, ML Models |
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <b>🤟 <a href="https://github.com/Udithp/sign-detect">SignBridge</a></b><br>
+        Real-time ASL to multilingual interpreter.<br>
+        <i>Python, TensorFlow, React, MediaPipe</i>
+      </td>
+      <td>
+        <b>🛡️ <a href="https://github.com/Udithp/ai-nids">AI NIDS</a></b><br>
+        ML Network Intrusion Detection System.<br>
+        <i>Scikit-Learn, Pandas, Python</i>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>📄 <a href="https://github.com/Udithp/ai-resume-builder">AI Resume Builder</a></b><br>
+        Intelligent NLP resume optimizer.<br>
+        <i>Python, OpenAI, Flask</i>
+      </td>
+      <td>
+        <b>💼 <a href="https://github.com/Udithp/hiresignal">HireSignal</a></b><br>
+        AI-driven recruitment platform.<br>
+        <i>React, Node.js, ML Models</i>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### 📊 GitHub Insights
+### 📊 Performance & Activity
 
 <p align="center">
-  <a href="https://github.com/Udithp">
-    <img src="https://github-readme-stats.vercel.app/api?username=Udithp&show_icons=true&theme=tokyonight&count_private=true" alt="Udith's GitHub Stats" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Udithp">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udithp&layout=compact&theme=tokyonight&hide=html,css" alt="Top Langs" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Udithp&show_icons=true&theme=tokyonight&count_private=true" alt="Udith's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udithp&layout=compact&theme=tokyonight&hide=html,css" alt="Top Langs" height="180px"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Udithp">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Udithp&theme=tokyonight" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Udithp&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Udithp&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
-
-### 📈 Activity Pulse
-
-<p align="center">
-  <a href="https://github.com/Udithp">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Udithp&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-  </a>
-</p>
-
----
-
-### 🐍 The Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Udithp/Udithp/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</p>
 
 <div align="center">
-  <em>"Without data, you're just another person with an opinion."</em> — <strong>W. Edwards Deming</strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <br>
+  <em>"The goal is to turn data into information, and information into insight."</em> — <b>Carly Fiorina</b>
 </div>
