@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=I'm%20Udith%20P&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Udith%20P&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-  <h3>🤟 Data Scientist & Analytics Specialist</h3>
+  <h3>Data Scientist & Analytics Specialist</h3>
 
   <p align="center">
     <a href="https://github.com/Udithp">
@@ -22,7 +22,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 <div align="center">
   I am a results-driven <b>Data Scientist</b> and <b>Data Analyst</b> passionate about uncovering hidden patterns in complex datasets. I specialize in turning raw data into actionable insights and building intelligent systems that drive meaningful impact. 
@@ -30,80 +30,53 @@
 
 <br>
 
-- 📊 **Specialization**: Exploratory Data Analysis (EDA) & Statistical Modeling.
-- 🔭 **Current Focus**: Leading **SignBridge**, an AI system for the Deaf & Mute community.
-- 🌱 **Learning**: Big Data Architecture and Advanced Business Intelligence.
-- 👯 **Collaboration**: Open for Open Source Data Science & Cybersecurity projects.
+- **Specialization**: Exploratory Data Analysis (EDA) & Statistical Modeling.
+- **Current Focus**: Leading **SignBridge**, an AI system for the Deaf & Mute community.
+- **Learning**: Big Data Architecture and Advanced Business Intelligence.
+- **Collaboration**: Open for Open Source Data Science & Cybersecurity projects.
 
 ---
 
-### 🛠️ Tech Stack & Expertise
+### Tech Stack & Expertise
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" /><br />Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="SQL" /><br />SQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" /><br />TensorFlow
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" alt="Scikit-Learn" /><br />Scikit-Learn
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" /><br />React
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flask" width="40" height="40" alt="Flask" /><br />Flask
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" /><br />Tailwind
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /><br />Git
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tableau" width="40" height="40" alt="Tableau" /><br />Tableau
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" /><br />AWS
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,sklearn,pytorch,pandas,numpy,react,flask,tailwind,git,tableau,aws,vscode,pycharm" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </div>
 
 ---
 
-### 🌟 Featured Projects
+### Featured Projects
 
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <b>🤟 <a href="https://github.com/Udithp/sign-detect">SignBridge</a></b><br>
+        <b><a href="https://github.com/Udithp/sign-detect">SignBridge</a></b><br>
         Real-time ASL to multilingual interpreter.<br>
         <i>Python, TensorFlow, React, MediaPipe</i>
       </td>
       <td>
-        <b>🛡️ <a href="https://github.com/Udithp/ai-nids">AI NIDS</a></b><br>
+        <b><a href="https://github.com/Udithp/ai-nids">AI NIDS</a></b><br>
         ML Network Intrusion Detection System.<br>
         <i>Scikit-Learn, Pandas, Python</i>
       </td>
     </tr>
     <tr>
       <td>
-        <b>📄 <a href="https://github.com/Udithp/ai-resume-builder">AI Resume Builder</a></b><br>
+        <b><a href="https://github.com/Udithp/ai-resume-builder">AI Resume Builder</a></b><br>
         Intelligent NLP resume optimizer.<br>
         <i>Python, OpenAI, Flask</i>
       </td>
       <td>
-        <b>💼 <a href="https://github.com/Udithp/hiresignal">HireSignal</a></b><br>
+        <b><a href="https://github.com/Udithp/hiresignal">HireSignal</a></b><br>
         AI-driven recruitment platform.<br>
         <i>React, Node.js, ML Models</i>
       </td>
@@ -113,7 +86,7 @@
 
 ---
 
-### 📊 Performance & Activity
+### Performance & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Udithp&show_icons=true&theme=tokyonight&count_private=true" alt="Udith's GitHub Stats" height="180px"/>
